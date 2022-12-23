@@ -54,7 +54,13 @@ print('ANOOP'in  sl2)
 print(sl)
 print(sl[::-1])#reverse the string
 print(sl[::1])
+print(sl[0:])#print hthe whole string
 print(sl[0])#firstcharacter
 print(sl[-1])#lastsecondcharacter
 print(sl[0:5])#slice
-print(sl[20:28])
+print(sl[20:30])
+print(sl[-11:-1])#printing from the last words
+print(sl[-15:-3])#removes last 2 characters
+print(sl.find("Since"))#find the index of the first word
+print(sl[0:5])
+
