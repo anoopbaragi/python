@@ -8,3 +8,4 @@ print(a.count('A'))
 print(type(a))
 z=a+b
 print(z)
+
